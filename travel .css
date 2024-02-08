@@ -1,0 +1,35 @@
+.container-fluid {background-color: rgba(53, 114, 255, 0.637);}
+.avbar-nav {text-align: end;}
+.imgg {display: flex; flex-direction: column; -ms-flex-align: center;}
+                        /*nav bar*/
+
+.back { background-image: url(./halongbaycheap.jpg); height: 500px; width: 80% ; background-position-x: center;}
+.back {text-align: center; color: aliceblue; text-shadow: 2px 2px black ; }
+.back {display: flex; flex-direction: column; -ms-flex-align: center;}
+.back {margin-top: 1%; margin-left:10%;;}
+    
+                      /*background*/
+.cont {margin-left:5%; margin-top: 2%}
+                    /*destination card*/
+    .accordion-body {text-align: center;}
+
+    .formm {text-align: center; background-color: rgba(53, 114, 255, 0.637);}
+    button { margin-top: 1% ; background-color: rgba(53, 114, 255, 0.637)}
+    .footer {margin-top: 1%; background-color: rgba(53, 114, 255, 0.637);}
+    .icon {text-align: center;}
+    /* CSS for small screens */
+@media only screen and (max-width: 600px) {
+    /* Styles for small screens */
+  }
+  
+  /* CSS for medium screens */
+  @media only screen and (min-width: 601px) and (max-width: 1024px) {
+    /* Styles for medium screens */
+  }
+  
+  /* CSS for large screens */
+  @media only screen and (min-width: 1025px) {
+    /* Styles for large screens */
+  }
+  
+      
